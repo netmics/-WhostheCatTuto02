@@ -60,7 +60,7 @@ a:hover{
   opacity: 1;
 }
 .background{
-  background-image: url("../image/saipan.jpg");
+  background-image: url("../image/tutoback.jpg");
   opacity: 0.9;
   background-position: center;
   background-size: cover;
@@ -106,7 +106,7 @@ header nav ul{
 .background h3{
   color: white;
   font-size: 1.8rem;
-	text-align: center;
+	text-align: left;
 }
 .btn{
   background-color: white;
